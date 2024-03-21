@@ -3,6 +3,7 @@
 <div align="center">
 
 <h2><a href="https://yanyuanqiao.github.io/vl-mamba/">VL-Mamba: Exploring State Space Models for Multimodal Learning</a></h2>
+
 Yanyuan Qiao, Zheng Yu, Longteng Guo, Sihan Chen, Zijia Zhao, Mingzhen Sun, Qi Wu, Jing Liu
 
 [![Paper](https://img.shields.io/badge/cs.CV-2403.13600-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.13600) 
