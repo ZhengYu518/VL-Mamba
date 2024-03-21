@@ -1,4 +1,4 @@
-# <img src="./assets/logo-2.jpg" style='width: 5%'> VL-Mamba
+# <img src="./assets/logo-2.jpg" style='width: 2%'> VL-Mamba
 
 <div align="center">
 
