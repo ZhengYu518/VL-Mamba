@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h2><a href="https://arxiv.org/abs/2403.13600">VL-Mamba: Exploring State Space Models for Multimodal Learning</a></h2>
+<h2><a href="https://yanyuanqiao.github.io/vl-mamba/">VL-Mamba: Exploring State Space Models for Multimodal Learning</a></h2>
 
-[![Paper](https://img.shields.io/badge/cs.CV-2403.13600-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.13600) [![Paper](https://img.shields.io/badge/%F0%9F%A4%97%20Paper-2403.13600-blue)](https://huggingface.co/papers/2403.13600) 
+[![Paper](https://img.shields.io/badge/cs.CV-2403.13600-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.13600) 
 
 ![teaser](./assets/arch.png)
 </div>
